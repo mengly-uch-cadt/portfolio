@@ -1,0 +1,175 @@
+{
+    "name": "Uch Mengly",
+    "logo_name": "uch-mengly",
+    "role": "Full-Stack/Flutter developer",
+    "about": {
+        "sections": {
+            "professional-info": {
+                "title": "professional-info",
+                "icon": "icons/info-professional.svg",
+                "info": {
+                    "experience": {
+                        "title": "experience",
+                        "description": "<br>As a passionate and dedicated Computer Science student, I am continuously expanding my technical skill set through hands-on experience and academic learning. I have developed expertise in full-stack development, including backend technologies like Laravel and mobile development with Flutter. I am also honing my data science and analytics skills, working with tools like Python, SQL, and PowerBI to extract actionable insights from data. My experiences include participating in competitive events like MakerThon 2024, where I demonstrated problemsolving and innovation. With a strong foundation in software development and data analytics, I am committed to applying my knowledge to real-world challenges and continuously growing my technical capabilities."
+                    },
+                    "hard-skills": {
+                        "title": "hard-skills",
+                        "description": "<br>I possess strong technical skills in Flutter, Dart, PHP, Laravel, MySQL, SQL, Firebase, NuxtJs, and VueJs, which I have utilized in various development projects. Additionally, I have experience with Git for version control and proficiency in C++ and Python for software development. My expertise in HTML and CSS allows me to design and build responsive and user-friendly web interfaces. I am also adept in problem solving, effective communication, and teamwork, ensuring seamless collaboration in development projects. These skills enable me to tackle complex challenges and contribute to successful project outcomes."
+                    },
+                    "soft-skills": {
+                        "title": "soft-skills",
+                        "description": "<br>I have strong communication skills, enabling effective collaboration and clear idea sharing. I excel in teamwork, problem-solving, and adaptability, allowing me to tackle challenges and work efficiently in dynamic environments. My time management ensures deadlines are met, while my leadership skills help guide and motivate others. I also possess critical thinking abilities and conflict resolution skills, ensuring smooth team dynamics and informed decision-making. These soft skills complement my technical expertise and enhance my contributions to any project."
+                    }
+                }
+            },
+            "personal-info": {
+                "title": "personal-info",
+                "icon": "icons/info-personal.svg",
+                "info": { 
+                    "bio": {
+                        "title": "bio",
+                        "description": "<br><b style=\"color: #43D9AD;\">My Bio</b><br>I am a third-year Computer Science student with a passion for technology and a strong foundation in various programming languages and frameworks. Throughout my academic journey, I’ve worked on eLearning projects using Laravel, Nuxt, and Flutter for mobile app development. My learning journey is fueled by a continuous desire to explore new technologies, and I enjoy solving complex problems while collaborating with others. In addition to my technical skills, I focus on enhancing my leadership, communication, and teamwork abilities to contribute to meaningful projects and grow both professionally and personally."
+                    },
+                    "interests": {
+                        "title": "interests",
+                        "description": "<br><b style=\"color: #43D9AD;\">My Interests</b><br>I have a strong interest in technology and software development, particularly in areas like mobile app development, cloud computing, and web technologies. I am excited about exploring new tools and frameworks that can enhance my development skills and broaden my understanding of different platforms. Additionally, I’m passionate about solving real-world problems through programming, whether that’s building innovative applications or optimizing processes. I also enjoy learning about new trends in tech, contributing to open-source projects, and collaborating with like-minded individuals to create impactful solutions. My interest in continuous learning drives me to stay up-to-date with the latest developments in the tech industry."
+                    },
+                    "education": {
+                        "title": "education",
+                        "description": "<br><b style=\"color: #43D9AD;\">Software Engineering - Cambodia Academy of Digital Technology</b> <br> I am currently pursuing a Bachelor’s degree in Computer Science at CADT, where I am gaining a solid foundation in both theoretical and practical aspects of computing. The program has equipped me with essential skills in software development, data structures, algorithms, database management, and various programming languages. At CADT, I have had the opportunity to work on diverse projects, which have enhanced my problem-solving abilities and technical knowledge. The curriculum also allows me to explore emerging technologies, preparing me for a career in the ever-evolving tech industry. I am committed to applying the knowledge I acquire in my academic journey to real-world challenges.<br><br><b style=\"color: #43D9AD;\">Up Skilling - TUX Global Institute</b><br>I am currently upskilling in Data Science at TUX, where I am deepening my knowledge of data analysis, machine learning, and statistical methods. This program allows me to work with tools and frameworks that are essential for processing and analyzing large datasets, as well as developing predictive models. Through hands-on projects and practical experience, I am enhancing my ability to derive insights from data and solve complex problems. This upskilling experience is helping me bridge the gap between my existing technical skills and the growing demand for data-driven decision-making in various industries."
+                    }
+                }
+            },
+            "hobbies-info": {
+                "title": "hobbies-info",
+                "icon": "icons/info-hobbies.svg",
+                "info": {
+                    "sports": {
+                        "title": "sports",
+                        "description": "<br>I have a strong passion for sports and outdoor activities, which are essential for keeping me active and energized. Badminton is one of my favorite sports, as it combines quick reflexes, strategic thinking, and the thrill of competition. I enjoy the fast pace of the game and the way it challenges my agility and coordination. Jogging and cycling are also part of my routine, helping me build endurance and explore my surroundings while staying fit. Additionally, I love hiking, as it allows me to connect with nature and enjoy breathtaking views while challenging myself physically. These activities not only contribute to my physical health but also strengthen my discipline, resilience, and focus, which positively impact other areas of my life."
+                    },
+                    "favorite-games": {
+                        "title": "favorite-games",
+                        "description": "<br>I enjoy playing a variety of games that challenge my mind and help me develop strategic thinking. For example, I love playing **Sudoku**, which sharpens my logical reasoning and attention to detail. **Crossword puzzles** are another favorite, allowing me to expand my vocabulary while solving complex clues. I also enjoy strategy board games like **Catan** and **Ticket to Ride**, where I can plan, negotiate, and make tactical decisions with friends. **Card games** such as **Rummy** provide a mix of luck and strategy, offering an exciting and competitive experience. Additionally, I enjoy playing **strategy video games** like **Civilization**, where I manage resources and make decisions to build and grow empires. These games not only entertain me but also enhance my problem-solving skills and critical thinking abilities."
+                    }
+                }
+            }
+        }
+    },
+    "contacts": {
+        "direct": {
+            "title": "contacts",
+            "sources": {
+                "email": "menglyuch.personal@gmail.com",
+                "phone": "+855 96 999 4954",
+                "telegram": "@MenglyUch"
+            }
+        },
+        "social": {
+            "github": {
+                "title": "Github profile",
+                "url": "https://github.com/",
+                "user": "Uch Mengly"
+            },
+            "facebook": {
+                "title": "Facebook profile",
+                "url": "https://facebook.com/",
+                "user": "username"
+            },
+            "twitter": {
+                "title": "Twitter account",
+                "url": "https://twitter.com/",
+                "user": "username"
+            }
+        },
+        "find_me_also_in": {
+            "title": "find-me-also-in",
+            "sources": {
+                "youtube": {
+                    "title": "YouTube channel",
+                    "url": "https://www.youtube.com/@mengly8612",
+                    "user": "Meng Ly"
+                },
+                "GitHub": {
+                    "title": "Github profile",
+                    "url": "https://github.com/mengly-uch-cadt",
+                    "user": "Uch Mengly"
+                },
+                "LinkedIn": {
+                    "title": "LinkedIn profile",
+                    "url": "https://www.linkedin.com/in/mengly-uch-663422242/",
+                    "user": "Mengly Uch"
+                }
+            }
+        }
+    },
+    "projects": {
+        "1": {
+            "title": "Elearning Website",
+            "description": "The <b style=\"color: #43D9AD;\">E-Learning Platform</b> is designed to provide a flexible and engaging educational experience, allowing learners to access high-quality courses and resources from anywhere at any time. The platform aims to cater to diverse learner needs, promote skill development, and encourage continuous education by integrating interactive tools, multimedia content, and personalized learning pathways. It also serves as a digital hub for fostering collaboration among students, educators, and professionals, creating a vibrant community dedicated to knowledge sharing and growth. Ultimately, the platform supports the organization’s mission to make education more accessible, inclusive, and impactful.",
+            "img": "/images/projects/elearning-website.png",
+            "tech": ["Nuxt"],
+            "web_url": "https://elearning-dev.tgi.asia",
+            "youtube": "https://youtu.be/8mqGv39PSjo"
+        },
+        "2": {
+            "title": "Elearning Admin Portal",
+            "description": "The <b style=\"color: #43D9AD;\">Admin Portal</b> serves as the central hub for managing and monitoring the e-learning platform. It provides administrators with tools to oversee course content, user engagement, performance analytics, and platform settings. The portal ensures smooth operations by enabling efficient management of users, courses, assessments, and resources, contributing to an optimal learning experience.",
+            "img": "/images/projects/elearning-admin-portal.png",
+            "tech": ["Nuxt"],
+            "web_url": "https://elearning-portal-dev.tgi.asia",
+            "youtube": "https://youtu.be/7B2T9tTdbxY"
+        },
+        "3": {
+            "title": "Elearning Backend",
+            "description": "The <b style=\"color: #43D9AD;\">E-Learning Backend</b> powers user management, course delivery, and progress tracking with secure APIs, role-based access and ensuring a seamless and scalable learning experience.",
+            "img": "/images/projects/elearning-backend.png",
+            "tech": ["Laravel", "MySQL", "PHP"]
+        },
+        "4": {
+            "title": "Elearning Mobile App",
+            "description": "The <b style=\"color: #43D9AD;\">E-Learning Mobile Platform</b> offers a flexible, engaging educational experience, enabling learners to access courses and resources anytime, anywhere via their mobile devices. Designed for diverse needs, it promotes skill development and collaboration through interactive tools and personalized learning pathways, making education more accessible and impactful.",
+            "img": "/images/projects/elearning-mobile-app.jpg",
+            "tech": ["Flutter", "Dart", "Firebase"],
+            "youtube": "https://youtube.com/shorts/LsxYzSBWMiA?feature=share"
+        },
+        "5": {
+            "title": "Event Management Mobile App",
+            "description": "This project is a comprehensive <b style=\"color: #43D9AD;\">Event Management</b> platform designed to streamline the process of creating, managing, and participating in events. It features user registration, event creation with customizable settings, calendar integration for easy viewing, and real-time notifications to keep users updated. Optional advanced features like chat functionality and QR code check-ins enhance the user experience, making it a modern solution for personal or professional event coordination.",
+            "img": "/images/projects/event-management.png",
+            "tech": ["Flutter", "Dart", "Firebase"],
+            "git_url": "https://github.com/mengly-uch-cadt/Moon-Event-Flutter",
+            "youtube": "https://youtu.be/eHWAycd1ewU"
+        },
+        "6": {
+            "title": "Khmer Ticket",
+            "description": "<b style=\"color: #43D9AD;\">Khmer Ticket</b> is a simple and efficient platform for booking bus and van tickets, allowing users to search schedules, select seats, and reserve tickets with ease.",
+            "img": "/images/projects/khmerticket.png",
+            "tech": ["PHP", "MySQL", "HTML", "CSS", "JavaScript"]
+        },
+        "7": {
+            "title": "Route Finder Cambodia Map",
+            "description": "This is a <b style=\"color: #43D9AD;\">route-finding</b> application for a Cambodia map that enables users to search for routes by selecting a province, district, and commune as the source and target locations. The system leverages AI algorithms such as Breadth-First Search (BFS), Depth-Bounded First Search (DBFS), Greedy Best-First Search (GBFS), and A* (A-star) to calculate the optimal route. It displays the calculated path on the map, the total distance, the straight-line distance, and a detailed list of the nodes (locations) in the route.Team member of 3 people in this project. Uch Mengly, Chea Veasna and Siv SreyNoch.",
+            "img": "/images/projects/cambodia-map.png",
+            "tech": ["AI", "Django", "HTML", "CSS", "JavaScript"],
+            "git_url": "https://github.com/mengly-uch-cadt/Cambodia-Map",
+            "youtube": "https://youtu.be/jflbxw4njH8"
+        },
+        "8": {
+            "title": "Charity Donation Backend",
+            "description": "The backend of Empower Change serves as the foundation for secure, scalable, and efficient data management. It provides administrators with a powerful control panel to manage users, projects, and donations.  Integrated with trusted payment gateways  the backend ensures seamless transaction processing. Built with scalability in mind, it is capable of handling increased traffic and data demands as the platform grows, ensuring a smooth experience for all stakeholders.",
+            "img": "/images/projects/charity-backend.jpg",
+            "tech": ["Laravel", "MySQL", "HTML", "CSS", "JavaScript"],
+            "git_url": "https://github.com/mengly-uch-cadt/Charity-Backend",
+            "youtube": "https://youtu.be/CJrYf7EFQPE"
+        },
+        "9": {
+            "title": "Charity Donation Frontend",
+            "description": "The frontend of the Empower Change platform is designed to deliver an intuitive and engaging user experience, making it easy for donors and project hosts to interact with the platform. Donors can browse projects, make secure contributions, and track their impact through personalized progress, ",
+            "img": "/images/projects/charity-frontend.jpg",
+            "tech": ["Vue", "HTML", "CSS", "JavaScript"],
+            "git_url": "https://github.com/mengly-uch-cadt/Charity-Frontend",
+            "youtube": "https://youtu.be/CJrYf7EFQPE"
+        }
+    }
+}
