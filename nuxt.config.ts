@@ -7,7 +7,10 @@ const siteTitle = `${config.name} | ${config.role}`
  Usage: https://nuxt.com/docs/api/configuration/nuxt-config
  */
 export default defineNuxtConfig({
-
+  ssr: true, // or false if it's a static site
+  nitro: {
+    preset: 'node-server', // Ensures compatibility with Dokku
+  },
   /**
    * * App Config
    * app config: https://nuxt.com/docs/api/configuration/nuxt-config#app
