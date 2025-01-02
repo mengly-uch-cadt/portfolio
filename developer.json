@@ -4,24 +4,6 @@
     "role": "Full-Stack/Flutter developer",
     "about": {
         "sections": {
-            "professional-info": {
-                "title": "professional-info",
-                "icon": "icons/info-professional.svg",
-                "info": {
-                    "experience": {
-                        "title": "experience",
-                        "description": "<br>As a passionate and dedicated Computer Science student, I am continuously expanding my technical skill set through hands-on experience and academic learning. I have developed expertise in full-stack development, including backend technologies like Laravel and mobile development with Flutter. I am also honing my data science and analytics skills, working with tools like Python, SQL, and PowerBI to extract actionable insights from data. My experiences include participating in competitive events like MakerThon 2024, where I demonstrated problemsolving and innovation. With a strong foundation in software development and data analytics, I am committed to applying my knowledge to real-world challenges and continuously growing my technical capabilities."
-                    },
-                    "hard-skills": {
-                        "title": "hard-skills",
-                        "description": "<br>I possess strong technical skills in Flutter, Dart, PHP, Laravel, MySQL, SQL, Firebase, NuxtJs, and VueJs, which I have utilized in various development projects. Additionally, I have experience with Git for version control and proficiency in C++ and Python for software development. My expertise in HTML and CSS allows me to design and build responsive and user-friendly web interfaces. I am also adept in problem solving, effective communication, and teamwork, ensuring seamless collaboration in development projects. These skills enable me to tackle complex challenges and contribute to successful project outcomes."
-                    },
-                    "soft-skills": {
-                        "title": "soft-skills",
-                        "description": "<br>I have strong communication skills, enabling effective collaboration and clear idea sharing. I excel in teamwork, problem-solving, and adaptability, allowing me to tackle challenges and work efficiently in dynamic environments. My time management ensures deadlines are met, while my leadership skills help guide and motivate others. I also possess critical thinking abilities and conflict resolution skills, ensuring smooth team dynamics and informed decision-making. These soft skills complement my technical expertise and enhance my contributions to any project."
-                    }
-                }
-            },
             "personal-info": {
                 "title": "personal-info",
                 "icon": "icons/info-personal.svg",
@@ -37,6 +19,24 @@
                     "education": {
                         "title": "education",
                         "description": "<br><b style=\"color: #43D9AD;\">Software Engineering - Cambodia Academy of Digital Technology</b> <br> I am currently pursuing a Bachelor’s degree in Computer Science at CADT, where I am gaining a solid foundation in both theoretical and practical aspects of computing. The program has equipped me with essential skills in software development, data structures, algorithms, database management, and various programming languages. At CADT, I have had the opportunity to work on diverse projects, which have enhanced my problem-solving abilities and technical knowledge. The curriculum also allows me to explore emerging technologies, preparing me for a career in the ever-evolving tech industry. I am committed to applying the knowledge I acquire in my academic journey to real-world challenges.<br><br><b style=\"color: #43D9AD;\">Up Skilling - TUX Global Institute</b><br>I am currently upskilling in Data Science at TUX, where I am deepening my knowledge of data analysis, machine learning, and statistical methods. This program allows me to work with tools and frameworks that are essential for processing and analyzing large datasets, as well as developing predictive models. Through hands-on projects and practical experience, I am enhancing my ability to derive insights from data and solve complex problems. This upskilling experience is helping me bridge the gap between my existing technical skills and the growing demand for data-driven decision-making in various industries."
+                    }
+                }
+            },
+            "professional-info": {
+                "title": "professional-info",
+                "icon": "icons/info-professional.svg",
+                "info": {
+                    "experience": {
+                        "title": "experience",
+                        "description": "<br>As a passionate and dedicated Computer Science student, I am continuously expanding my technical skill set through hands-on experience and academic learning. I have developed expertise in full-stack development, including backend technologies like Laravel and mobile development with Flutter. I am also honing my data science and analytics skills, working with tools like Python, SQL, and PowerBI to extract actionable insights from data. My experiences include participating in competitive events like MakerThon 2024, where I demonstrated problemsolving and innovation. With a strong foundation in software development and data analytics, I am committed to applying my knowledge to real-world challenges and continuously growing my technical capabilities.<br><br><b style=\"color: #43D9AD;\">Full-Stack / Flutter Developer - TUX Global Institute</b><br><b style=\"color: #43D9AD;\">June - December 2024</b><br>As a full-time hybrid software developer at TUX Global Institute, I played a pivotal role in enhancing their e-learning platform by utilizing Flutter for mobile application development and Laravel for backend integration. My contributions included designing and refining system features to ensure an optimized user experience for administrators and learners alike. By leveraging Flutter's cross-platform capabilities, I delivered a responsive and consistent learning interface across various devices. I also collaborated closely with the team to maintain existing functionalities while introducing innovative solutions that enriched the overall platform.<br><br><b style=\"color: #43D9AD;\">Software Development Internship - TUX Global Institute</b><br><b style=\"color: #43D9AD;\">March - June 2024</b><br>During my full-stack development internship at TUX Global Institute, I honed my technical skills by developing RESTful APIs with Laravel and designing scalable system architectures for multiple projects. I spearheaded the creation of a charity website using Vue.js, ensuring an intuitive and responsive user interface. Additionally, I developed an e-learning system with Laravel and Nuxt.js, featuring a robust admin portal and user-friendly web interface. This hands-on experience deepened my understanding of integrating frontend and backend technologies to deliver seamless full-stack solutions."
+                    },
+                    "hard-skills": {
+                        "title": "hard-skills",
+                        "description": "<br>I possess strong technical skills in Flutter, Dart, PHP, Laravel, MySQL, SQL, Firebase, NuxtJs, and VueJs, which I have utilized in various development projects. Additionally, I have experience with Git for version control and proficiency in C++ and Python for software development. My expertise in HTML and CSS allows me to design and build responsive and user-friendly web interfaces. I am also adept in problem solving, effective communication, and teamwork, ensuring seamless collaboration in development projects. These skills enable me to tackle complex challenges and contribute to successful project outcomes."
+                    },
+                    "soft-skills": {
+                        "title": "soft-skills",
+                        "description": "<br>I have strong communication skills, enabling effective collaboration and clear idea sharing. I excel in teamwork, problem-solving, and adaptability, allowing me to tackle challenges and work efficiently in dynamic environments. My time management ensures deadlines are met, while my leadership skills help guide and motivate others. I also possess critical thinking abilities and conflict resolution skills, ensuring smooth team dynamics and informed decision-making. These soft skills complement my technical expertise and enhance my contributions to any project."
                     }
                 }
             },
