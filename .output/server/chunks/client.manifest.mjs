@@ -1,4 +1,10 @@
 const client_manifest = {
+  "assets/fonts/fira-code/FiraCode-Medium.ttf": {
+    "resourceType": "font",
+    "mimeType": "font/ttf",
+    "file": "FiraCode-Medium.e6130d9c.ttf",
+    "src": "assets/fonts/fira-code/FiraCode-Medium.ttf"
+  },
   "assets/fonts/fira-code/FiraCode-Light.ttf": {
     "resourceType": "font",
     "mimeType": "font/ttf",
@@ -17,23 +23,17 @@ const client_manifest = {
     "file": "FiraCode-Regular.d6641a9a.ttf",
     "src": "assets/fonts/fira-code/FiraCode-Regular.ttf"
   },
-  "assets/fonts/fira-code/FiraCode-Medium.ttf": {
+  "assets/fonts/fira-code/FiraCode-Bold.ttf": {
     "resourceType": "font",
     "mimeType": "font/ttf",
-    "file": "FiraCode-Medium.e6130d9c.ttf",
-    "src": "assets/fonts/fira-code/FiraCode-Medium.ttf"
+    "file": "FiraCode-Bold.cb8eb487.ttf",
+    "src": "assets/fonts/fira-code/FiraCode-Bold.ttf"
   },
   "assets/fonts/fira-code/FiraCode-SemiBold.ttf": {
     "resourceType": "font",
     "mimeType": "font/ttf",
     "file": "FiraCode-SemiBold.acc523d8.ttf",
     "src": "assets/fonts/fira-code/FiraCode-SemiBold.ttf"
-  },
-  "assets/fonts/fira-code/FiraCode-Bold.ttf": {
-    "resourceType": "font",
-    "mimeType": "font/ttf",
-    "file": "FiraCode-Bold.cb8eb487.ttf",
-    "src": "assets/fonts/fira-code/FiraCode-Bold.ttf"
   },
   "assets/fonts/fira-code/FiraCode-Variable.ttf": {
     "resourceType": "font",
@@ -224,11 +224,6 @@ const client_manifest = {
     "file": "error-500.aa16ed4d.css",
     "resourceType": "style"
   },
-  "pages/index.css": {
-    "resourceType": "style",
-    "file": "index.b67db2e0.css",
-    "src": "pages/index.css"
-  },
   "pages/about-me.css": {
     "resourceType": "style",
     "file": "about-me.70deb9bf.css",
@@ -239,16 +234,6 @@ const client_manifest = {
     "file": "error-500.aa16ed4d.css",
     "src": "node_modules/@nuxt/ui-templates/dist/templates/error-500.css"
   },
-  "node_modules/nuxt/dist/app/entry.css": {
-    "resourceType": "style",
-    "file": "entry.1df28302.css",
-    "src": "node_modules/nuxt/dist/app/entry.css"
-  },
-  "pages/projects.css": {
-    "resourceType": "style",
-    "file": "projects.3cc0f21e.css",
-    "src": "pages/projects.css"
-  },
   "pages/contact-me.css": {
     "resourceType": "style",
     "file": "contact-me.8966fc53.css",
@@ -258,6 +243,21 @@ const client_manifest = {
     "resourceType": "style",
     "file": "error-404.23f2309d.css",
     "src": "node_modules/@nuxt/ui-templates/dist/templates/error-404.css"
+  },
+  "pages/projects.css": {
+    "resourceType": "style",
+    "file": "projects.3cc0f21e.css",
+    "src": "pages/projects.css"
+  },
+  "pages/index.css": {
+    "resourceType": "style",
+    "file": "index.b67db2e0.css",
+    "src": "pages/index.css"
+  },
+  "node_modules/nuxt/dist/app/entry.css": {
+    "resourceType": "style",
+    "file": "entry.1df28302.css",
+    "src": "node_modules/nuxt/dist/app/entry.css"
   }
 };
 
