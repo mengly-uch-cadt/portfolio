@@ -1413,310 +1413,170 @@ const assets = {
   "/_nuxt/about-me.70deb9bf.css": {
     "type": "text/css; charset=utf-8",
     "etag": "\"47c-AfIf1L3F19onSd7YBT1I8WnbEgE\"",
-    "mtime": "2025-01-02T01:48:01.948Z",
+    "mtime": "2025-01-02T01:51:46.808Z",
     "size": 1148,
     "path": "../public/_nuxt/about-me.70deb9bf.css"
   },
   "/_nuxt/about-me.99b99058.js": {
     "type": "application/javascript",
     "etag": "\"224b-egXJk+cYXyzx5JtH66aP6/2zd1g\"",
-    "mtime": "2025-01-02T01:48:01.948Z",
+    "mtime": "2025-01-02T01:51:46.797Z",
     "size": 8779,
     "path": "../public/_nuxt/about-me.99b99058.js"
   },
   "/_nuxt/close.19fba679.js": {
     "type": "application/javascript",
     "etag": "\"87-PYe6UmsxTP3IUmCmuIaimUaG6ic\"",
-    "mtime": "2025-01-02T01:48:01.948Z",
+    "mtime": "2025-01-02T01:51:46.797Z",
     "size": 135,
     "path": "../public/_nuxt/close.19fba679.js"
   },
   "/_nuxt/composables.fb5eb5d1.js": {
     "type": "application/javascript",
     "etag": "\"61-HJrsrsICuD99/JsW3Udu8rqFHBk\"",
-    "mtime": "2025-01-02T01:48:01.948Z",
+    "mtime": "2025-01-02T01:51:46.797Z",
     "size": 97,
     "path": "../public/_nuxt/composables.fb5eb5d1.js"
   },
   "/_nuxt/contact-me.8966fc53.css": {
     "type": "text/css; charset=utf-8",
     "etag": "\"6aa-HhuBLPNXwpwBoC7FMDLT3wto8HY\"",
-    "mtime": "2025-01-02T01:48:01.948Z",
+    "mtime": "2025-01-02T01:51:46.797Z",
     "size": 1706,
     "path": "../public/_nuxt/contact-me.8966fc53.css"
   },
   "/_nuxt/contact-me.db93bb1c.js": {
     "type": "application/javascript",
     "etag": "\"263f-jvGYDb4upLWIAgVeOKzEKsb1DTA\"",
-    "mtime": "2025-01-02T01:48:01.948Z",
+    "mtime": "2025-01-02T01:51:46.797Z",
     "size": 9791,
     "path": "../public/_nuxt/contact-me.db93bb1c.js"
   },
   "/_nuxt/entry.1df28302.css": {
     "type": "text/css; charset=utf-8",
     "etag": "\"a84d-Wf5lZUAnt9Hsh1m5bTJbyWWdhrw\"",
-    "mtime": "2025-01-02T01:48:01.948Z",
+    "mtime": "2025-01-02T01:51:46.808Z",
     "size": 43085,
     "path": "../public/_nuxt/entry.1df28302.css"
   },
   "/_nuxt/entry.52bca07b.js": {
     "type": "application/javascript",
     "etag": "\"2bce4-CEqFmpEOvEm3hceErqvNeN852Zc\"",
-    "mtime": "2025-01-02T01:48:01.948Z",
+    "mtime": "2025-01-02T01:51:46.797Z",
     "size": 179428,
     "path": "../public/_nuxt/entry.52bca07b.js"
   },
   "/_nuxt/error-404.23f2309d.css": {
     "type": "text/css; charset=utf-8",
     "etag": "\"e2e-ivsbEmi48+s9HDOqtrSdWFvddYQ\"",
-    "mtime": "2025-01-02T01:48:01.958Z",
+    "mtime": "2025-01-02T01:51:46.797Z",
     "size": 3630,
     "path": "../public/_nuxt/error-404.23f2309d.css"
   },
   "/_nuxt/error-404.86322d9d.js": {
     "type": "application/javascript",
     "etag": "\"8a0-+1NBKelvWn48j79Xghib/6BCAGE\"",
-    "mtime": "2025-01-02T01:48:01.948Z",
+    "mtime": "2025-01-02T01:51:46.797Z",
     "size": 2208,
     "path": "../public/_nuxt/error-404.86322d9d.js"
   },
   "/_nuxt/error-500.002bde84.js": {
     "type": "application/javascript",
     "etag": "\"744-sRP2xz4Kw4tS3q3F73FDmMj2WtI\"",
-    "mtime": "2025-01-02T01:48:01.948Z",
+    "mtime": "2025-01-02T01:51:46.797Z",
     "size": 1860,
     "path": "../public/_nuxt/error-500.002bde84.js"
   },
   "/_nuxt/error-500.aa16ed4d.css": {
     "type": "text/css; charset=utf-8",
     "etag": "\"79e-7j4Tsx89siDo85YoIs0XqsPWmPI\"",
-    "mtime": "2025-01-02T01:48:01.958Z",
+    "mtime": "2025-01-02T01:51:46.814Z",
     "size": 1950,
     "path": "../public/_nuxt/error-500.aa16ed4d.css"
   },
   "/_nuxt/error-component.2336e142.js": {
     "type": "application/javascript",
     "etag": "\"4ba-njlT9MJAbh9HDaPuKa3sFdZXSII\"",
-    "mtime": "2025-01-02T01:48:01.948Z",
+    "mtime": "2025-01-02T01:51:46.797Z",
     "size": 1210,
     "path": "../public/_nuxt/error-component.2336e142.js"
   },
   "/_nuxt/FiraCode-Bold.cb8eb487.ttf": {
     "type": "font/ttf",
     "etag": "\"2e1cc-orOqYo5RBo4T3r9k4u16yXAJ9kA\"",
-    "mtime": "2025-01-02T01:48:01.948Z",
+    "mtime": "2025-01-02T01:51:46.797Z",
     "size": 188876,
     "path": "../public/_nuxt/FiraCode-Bold.cb8eb487.ttf"
   },
   "/_nuxt/FiraCode-Light.9a0ab96c.ttf": {
     "type": "font/ttf",
     "etag": "\"2e034-pNxR376ejEPU+10mpcKXAs54b0M\"",
-    "mtime": "2025-01-02T01:48:01.948Z",
+    "mtime": "2025-01-02T01:51:46.782Z",
     "size": 188468,
     "path": "../public/_nuxt/FiraCode-Light.9a0ab96c.ttf"
   },
   "/_nuxt/FiraCode-Medium.e6130d9c.ttf": {
     "type": "font/ttf",
     "etag": "\"2df54-l7JwhdRewdcrAv+BDZpXCDnZHV4\"",
-    "mtime": "2025-01-02T01:48:01.948Z",
+    "mtime": "2025-01-02T01:51:46.797Z",
     "size": 188244,
     "path": "../public/_nuxt/FiraCode-Medium.e6130d9c.ttf"
   },
   "/_nuxt/FiraCode-Regular.d6641a9a.ttf": {
     "type": "font/ttf",
     "etag": "\"2df5c-heLz1vuG9DrczSZqitBnWXigGXU\"",
-    "mtime": "2025-01-02T01:48:01.948Z",
+    "mtime": "2025-01-02T01:51:46.797Z",
     "size": 188252,
     "path": "../public/_nuxt/FiraCode-Regular.d6641a9a.ttf"
   },
   "/_nuxt/FiraCode-Retina.2353fa3f.ttf": {
     "type": "font/ttf",
     "etag": "\"35cc4-wMH6Gnn8EC0rZ1M5axecGQGgSMI\"",
-    "mtime": "2025-01-02T01:48:01.948Z",
+    "mtime": "2025-01-02T01:51:46.797Z",
     "size": 220356,
     "path": "../public/_nuxt/FiraCode-Retina.2353fa3f.ttf"
   },
   "/_nuxt/FiraCode-SemiBold.acc523d8.ttf": {
     "type": "font/ttf",
     "etag": "\"2e0bc-MqnexoPc2ZtERrfNGxkHUg0T50g\"",
-    "mtime": "2025-01-02T01:48:01.948Z",
+    "mtime": "2025-01-02T01:51:46.797Z",
     "size": 188604,
     "path": "../public/_nuxt/FiraCode-SemiBold.acc523d8.ttf"
   },
   "/_nuxt/FiraCode-Variable.0ed78a6a.ttf": {
     "type": "font/ttf",
     "etag": "\"3f53c-KvDSPhDq42erfT+bm0gUs1jCtfA\"",
-    "mtime": "2025-01-02T01:48:01.948Z",
+    "mtime": "2025-01-02T01:51:46.797Z",
     "size": 259388,
     "path": "../public/_nuxt/FiraCode-Variable.0ed78a6a.ttf"
   },
   "/_nuxt/index.97050501.js": {
     "type": "application/javascript",
     "etag": "\"228e-Y0FllbgEt6zrAo/hCWxD7wIKUro\"",
-    "mtime": "2025-01-02T01:48:01.948Z",
+    "mtime": "2025-01-02T01:51:46.797Z",
     "size": 8846,
     "path": "../public/_nuxt/index.97050501.js"
   },
   "/_nuxt/index.b67db2e0.css": {
     "type": "text/css; charset=utf-8",
     "etag": "\"15f4-QNFqOCFpKxUxbClz9yTOyVcNfog\"",
-    "mtime": "2025-01-02T01:48:01.959Z",
+    "mtime": "2025-01-02T01:51:46.808Z",
     "size": 5620,
     "path": "../public/_nuxt/index.b67db2e0.css"
   },
   "/_nuxt/projects.3cc0f21e.css": {
     "type": "text/css; charset=utf-8",
     "etag": "\"a9e-RSbMbbj4LLSCIGmwdobN7LQBBqI\"",
-    "mtime": "2025-01-02T01:48:01.959Z",
+    "mtime": "2025-01-02T01:51:46.797Z",
     "size": 2718,
     "path": "../public/_nuxt/projects.3cc0f21e.css"
   },
   "/_nuxt/projects.793c3604.js": {
     "type": "application/javascript",
     "etag": "\"14c9-Z9Du91D3pN057kt1WF7XGEDZcb0\"",
-    "mtime": "2025-01-02T01:48:01.948Z",
+    "mtime": "2025-01-02T01:51:46.797Z",
     "size": 5321,
     "path": "../public/_nuxt/projects.793c3604.js"
-  },
-  "/images/projects/ai-resources.png": {
-    "type": "image/png",
-    "etag": "\"d2e79-zIv1bfen8UPuvhaWao+WZtVTLnk\"",
-    "mtime": "2024-12-31T14:23:05.750Z",
-    "size": 863865,
-    "path": "../public/images/projects/ai-resources.png"
-  },
-  "/images/projects/cambodia-map.png": {
-    "type": "image/png",
-    "etag": "\"2cdd52-EKlRyVi4Tx55+yo0Xc9JEYUoNMk\"",
-    "mtime": "2025-01-01T23:09:55.424Z",
-    "size": 2940242,
-    "path": "../public/images/projects/cambodia-map.png"
-  },
-  "/images/projects/charity-backend.jpg": {
-    "type": "image/jpeg",
-    "etag": "\"27112-22nGe0K4UF7oG/aQsE6KIN0egt4\"",
-    "mtime": "2025-01-01T23:09:55.426Z",
-    "size": 160018,
-    "path": "../public/images/projects/charity-backend.jpg"
-  },
-  "/images/projects/charity-frontend.jpg": {
-    "type": "image/jpeg",
-    "etag": "\"26f26-7ZKtkCA3OAiF8YAMS7bN6lqZ5yY\"",
-    "mtime": "2025-01-01T23:09:55.427Z",
-    "size": 159526,
-    "path": "../public/images/projects/charity-frontend.jpg"
-  },
-  "/images/projects/elearning-admin-portal.png": {
-    "type": "image/png",
-    "etag": "\"1f672-w7FSqCGKKsZCOz3VZoIu34+tGBQ\"",
-    "mtime": "2025-01-01T11:53:19.604Z",
-    "size": 128626,
-    "path": "../public/images/projects/elearning-admin-portal.png"
-  },
-  "/images/projects/elearning-backend.png": {
-    "type": "image/png",
-    "etag": "\"5e6d1e-8O45d+yudnjRpAihYle3gEWU4Ac\"",
-    "mtime": "2025-01-01T15:06:09.246Z",
-    "size": 6188318,
-    "path": "../public/images/projects/elearning-backend.png"
-  },
-  "/images/projects/elearning-mobile-app.jpg": {
-    "type": "image/jpeg",
-    "etag": "\"2a426-JEA8Q0KoO8RuXEJ+lqfWOcMaSEY\"",
-    "mtime": "2025-01-01T23:09:55.428Z",
-    "size": 173094,
-    "path": "../public/images/projects/elearning-mobile-app.jpg"
-  },
-  "/images/projects/elearning-website.png": {
-    "type": "image/png",
-    "etag": "\"b5791-8yrlKpMqhUAefAPvgZ0mjI80pTs\"",
-    "mtime": "2025-01-01T09:56:07.103Z",
-    "size": 743313,
-    "path": "../public/images/projects/elearning-website.png"
-  },
-  "/images/projects/ethereum.png": {
-    "type": "image/png",
-    "etag": "\"494db-QfpxQyKYGx7DOjozqaKVyGRuO3o\"",
-    "mtime": "2024-12-31T14:23:05.753Z",
-    "size": 300251,
-    "path": "../public/images/projects/ethereum.png"
-  },
-  "/images/projects/event-management.png": {
-    "type": "image/png",
-    "etag": "\"434328-lO7xesJXVxV8S5X5Yhku/MFIKa0\"",
-    "mtime": "2025-01-01T13:13:50.420Z",
-    "size": 4408104,
-    "path": "../public/images/projects/event-management.png"
-  },
-  "/images/projects/khmerticket.png": {
-    "type": "image/png",
-    "etag": "\"163e97-oxyWamYLYpzVNxjC4mAWGJAi3Kk\"",
-    "mtime": "2025-01-01T16:12:18.497Z",
-    "size": 1457815,
-    "path": "../public/images/projects/khmerticket.png"
-  },
-  "/images/projects/tetris-game.png": {
-    "type": "image/png",
-    "etag": "\"136c49-1ofMUd7eELYhhtIavsqJBfxzPXY\"",
-    "mtime": "2024-12-31T14:23:05.763Z",
-    "size": 1272905,
-    "path": "../public/images/projects/tetris-game.png"
-  },
-  "/images/projects/ui-animations.png": {
-    "type": "image/png",
-    "etag": "\"41985-FE9unSqTl9lPE3LIDCetWdRQVqw\"",
-    "mtime": "2024-12-31T14:23:05.766Z",
-    "size": 268677,
-    "path": "../public/images/projects/ui-animations.png"
-  },
-  "/images/projects/ui-animations2.png": {
-    "type": "image/png",
-    "etag": "\"3fb13-dh1WEMq9mwKiApNskJ+u8h8N/uU\"",
-    "mtime": "2024-12-31T14:23:05.768Z",
-    "size": 260883,
-    "path": "../public/images/projects/ui-animations2.png"
-  },
-  "/images/projects/worldmap.png": {
-    "type": "image/png",
-    "etag": "\"97cc0-XGX1S/H6bJDScxURH36jOpkJleM\"",
-    "mtime": "2024-12-31T14:23:05.773Z",
-    "size": 621760,
-    "path": "../public/images/projects/worldmap.png"
-  },
-  "/icons/console/arrow-button.svg": {
-    "type": "image/svg+xml",
-    "etag": "\"b8-OTecWE3mEy4hYYxvIN+4wf2RclE\"",
-    "mtime": "2024-12-31T14:23:05.722Z",
-    "size": 184,
-    "path": "../public/icons/console/arrow-button.svg"
-  },
-  "/icons/console/bolt-down-left.svg": {
-    "type": "image/svg+xml",
-    "etag": "\"6e4-aPMoiVO7fzLMVMx/Eb+ltxgVxuk\"",
-    "mtime": "2024-12-31T14:23:05.722Z",
-    "size": 1764,
-    "path": "../public/icons/console/bolt-down-left.svg"
-  },
-  "/icons/console/bolt-down-right.svg": {
-    "type": "image/svg+xml",
-    "etag": "\"6e4-4kGaC6XzPaluVY3oIvffCaKV1y0\"",
-    "mtime": "2024-12-31T14:23:05.723Z",
-    "size": 1764,
-    "path": "../public/icons/console/bolt-down-right.svg"
-  },
-  "/icons/console/bolt-up-left.svg": {
-    "type": "image/svg+xml",
-    "etag": "\"6df-r7D0r5ZU7ZskkbjEH76McGd9RRA\"",
-    "mtime": "2024-12-31T14:23:05.723Z",
-    "size": 1759,
-    "path": "../public/icons/console/bolt-up-left.svg"
-  },
-  "/icons/console/bolt-up-right.svg": {
-    "type": "image/svg+xml",
-    "etag": "\"6de-fii/T0Zxh+QFVF25uVoRHFT9Nic\"",
-    "mtime": "2024-12-31T14:23:05.723Z",
-    "size": 1758,
-    "path": "../public/icons/console/bolt-up-right.svg"
   },
   "/icons/gist/comments.svg": {
     "type": "image/svg+xml",
@@ -1759,6 +1619,41 @@ const assets = {
     "mtime": "2024-12-31T14:23:05.730Z",
     "size": 1223,
     "path": "../public/icons/social/twitter.svg"
+  },
+  "/icons/console/arrow-button.svg": {
+    "type": "image/svg+xml",
+    "etag": "\"b8-OTecWE3mEy4hYYxvIN+4wf2RclE\"",
+    "mtime": "2024-12-31T14:23:05.722Z",
+    "size": 184,
+    "path": "../public/icons/console/arrow-button.svg"
+  },
+  "/icons/console/bolt-down-left.svg": {
+    "type": "image/svg+xml",
+    "etag": "\"6e4-aPMoiVO7fzLMVMx/Eb+ltxgVxuk\"",
+    "mtime": "2024-12-31T14:23:05.722Z",
+    "size": 1764,
+    "path": "../public/icons/console/bolt-down-left.svg"
+  },
+  "/icons/console/bolt-down-right.svg": {
+    "type": "image/svg+xml",
+    "etag": "\"6e4-4kGaC6XzPaluVY3oIvffCaKV1y0\"",
+    "mtime": "2024-12-31T14:23:05.723Z",
+    "size": 1764,
+    "path": "../public/icons/console/bolt-down-right.svg"
+  },
+  "/icons/console/bolt-up-left.svg": {
+    "type": "image/svg+xml",
+    "etag": "\"6df-r7D0r5ZU7ZskkbjEH76McGd9RRA\"",
+    "mtime": "2024-12-31T14:23:05.723Z",
+    "size": 1759,
+    "path": "../public/icons/console/bolt-up-left.svg"
+  },
+  "/icons/console/bolt-up-right.svg": {
+    "type": "image/svg+xml",
+    "etag": "\"6de-fii/T0Zxh+QFVF25uVoRHFT9Nic\"",
+    "mtime": "2024-12-31T14:23:05.723Z",
+    "size": 1758,
+    "path": "../public/icons/console/bolt-up-right.svg"
   },
   "/icons/techs/ai.svg": {
     "type": "image/svg+xml",
@@ -1871,6 +1766,111 @@ const assets = {
     "mtime": "2024-12-31T14:23:05.737Z",
     "size": 330,
     "path": "../public/icons/techs/vue.svg"
+  },
+  "/images/projects/ai-resources.png": {
+    "type": "image/png",
+    "etag": "\"d2e79-zIv1bfen8UPuvhaWao+WZtVTLnk\"",
+    "mtime": "2024-12-31T14:23:05.750Z",
+    "size": 863865,
+    "path": "../public/images/projects/ai-resources.png"
+  },
+  "/images/projects/cambodia-map.png": {
+    "type": "image/png",
+    "etag": "\"2cdd52-EKlRyVi4Tx55+yo0Xc9JEYUoNMk\"",
+    "mtime": "2025-01-01T23:09:55.424Z",
+    "size": 2940242,
+    "path": "../public/images/projects/cambodia-map.png"
+  },
+  "/images/projects/charity-backend.jpg": {
+    "type": "image/jpeg",
+    "etag": "\"27112-22nGe0K4UF7oG/aQsE6KIN0egt4\"",
+    "mtime": "2025-01-01T23:09:55.426Z",
+    "size": 160018,
+    "path": "../public/images/projects/charity-backend.jpg"
+  },
+  "/images/projects/charity-frontend.jpg": {
+    "type": "image/jpeg",
+    "etag": "\"26f26-7ZKtkCA3OAiF8YAMS7bN6lqZ5yY\"",
+    "mtime": "2025-01-01T23:09:55.427Z",
+    "size": 159526,
+    "path": "../public/images/projects/charity-frontend.jpg"
+  },
+  "/images/projects/elearning-admin-portal.png": {
+    "type": "image/png",
+    "etag": "\"1f672-w7FSqCGKKsZCOz3VZoIu34+tGBQ\"",
+    "mtime": "2025-01-01T11:53:19.604Z",
+    "size": 128626,
+    "path": "../public/images/projects/elearning-admin-portal.png"
+  },
+  "/images/projects/elearning-backend.png": {
+    "type": "image/png",
+    "etag": "\"5e6d1e-8O45d+yudnjRpAihYle3gEWU4Ac\"",
+    "mtime": "2025-01-01T15:06:09.246Z",
+    "size": 6188318,
+    "path": "../public/images/projects/elearning-backend.png"
+  },
+  "/images/projects/elearning-mobile-app.jpg": {
+    "type": "image/jpeg",
+    "etag": "\"2a426-JEA8Q0KoO8RuXEJ+lqfWOcMaSEY\"",
+    "mtime": "2025-01-01T23:09:55.428Z",
+    "size": 173094,
+    "path": "../public/images/projects/elearning-mobile-app.jpg"
+  },
+  "/images/projects/elearning-website.png": {
+    "type": "image/png",
+    "etag": "\"b5791-8yrlKpMqhUAefAPvgZ0mjI80pTs\"",
+    "mtime": "2025-01-01T09:56:07.103Z",
+    "size": 743313,
+    "path": "../public/images/projects/elearning-website.png"
+  },
+  "/images/projects/ethereum.png": {
+    "type": "image/png",
+    "etag": "\"494db-QfpxQyKYGx7DOjozqaKVyGRuO3o\"",
+    "mtime": "2024-12-31T14:23:05.753Z",
+    "size": 300251,
+    "path": "../public/images/projects/ethereum.png"
+  },
+  "/images/projects/event-management.png": {
+    "type": "image/png",
+    "etag": "\"434328-lO7xesJXVxV8S5X5Yhku/MFIKa0\"",
+    "mtime": "2025-01-01T13:13:50.420Z",
+    "size": 4408104,
+    "path": "../public/images/projects/event-management.png"
+  },
+  "/images/projects/khmerticket.png": {
+    "type": "image/png",
+    "etag": "\"163e97-oxyWamYLYpzVNxjC4mAWGJAi3Kk\"",
+    "mtime": "2025-01-01T16:12:18.497Z",
+    "size": 1457815,
+    "path": "../public/images/projects/khmerticket.png"
+  },
+  "/images/projects/tetris-game.png": {
+    "type": "image/png",
+    "etag": "\"136c49-1ofMUd7eELYhhtIavsqJBfxzPXY\"",
+    "mtime": "2024-12-31T14:23:05.763Z",
+    "size": 1272905,
+    "path": "../public/images/projects/tetris-game.png"
+  },
+  "/images/projects/ui-animations.png": {
+    "type": "image/png",
+    "etag": "\"41985-FE9unSqTl9lPE3LIDCetWdRQVqw\"",
+    "mtime": "2024-12-31T14:23:05.766Z",
+    "size": 268677,
+    "path": "../public/images/projects/ui-animations.png"
+  },
+  "/images/projects/ui-animations2.png": {
+    "type": "image/png",
+    "etag": "\"3fb13-dh1WEMq9mwKiApNskJ+u8h8N/uU\"",
+    "mtime": "2024-12-31T14:23:05.768Z",
+    "size": 260883,
+    "path": "../public/images/projects/ui-animations2.png"
+  },
+  "/images/projects/worldmap.png": {
+    "type": "image/png",
+    "etag": "\"97cc0-XGX1S/H6bJDScxURH36jOpkJleM\"",
+    "mtime": "2024-12-31T14:23:05.773Z",
+    "size": 621760,
+    "path": "../public/images/projects/worldmap.png"
   },
   "/pwa/icons/apple-touch-icon.png": {
     "type": "image/png",
